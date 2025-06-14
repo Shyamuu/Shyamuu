@@ -31,7 +31,7 @@ I'm an experienced Data Engineer passionate about building scalable data solutio
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyamuu&show_icons=true&theme=dark)
 
 ### 🤝 Let's Connect!
 
