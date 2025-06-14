@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shyam]
+# 👋 Hi, I'm Shyam Pathivada
 
 ## 🚀 Data Engineer | Big Data Specialist | AI Enthusiast
 
@@ -35,8 +35,8 @@ I'm an experienced Data Engineer passionate about building scalable data solutio
 
 ### 🤝 Let's Connect!
 
-- 💼 [LinkedIn Profile]
-- 📫 How to reach me: [Your professional email]
+- 💼 https://www.linkedin.com/in/shyambharat/
+- 📫 How to reach me: shyambharatp@gmail.com
 
 ---
-⭐️ From [Your Username]
+⭐️ From Shyamuu
